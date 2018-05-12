@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1887
     wikipedia: http://en.wikipedia.org/wiki/Herbert_Spencer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29869#Essays--Scientific-Political--amp--Speculative-Vol.-I
 gutenberg_issued: '2009-08-31'
 gutenberg_type: Text
 identifiers:
