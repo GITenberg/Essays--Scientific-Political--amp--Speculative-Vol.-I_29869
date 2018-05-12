@@ -1,0 +1,35 @@
+_repo: Essays--Scientific-Political--amp--Speculative-Vol.-I_29869
+_version: 0.1.0
+alternative_title: 'Essays: Scientific, Political, and Speculative, Vol. I'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spencer, Herbert
+    birthdate: 1820
+    deathdate: 1903
+    gutenberg_agent_id: '1887'
+    url: http://www.gutenberg.org/2009/agents/1887
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Spencer
+description: ''
+gutenberg_issued: '2009-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science'
+- !lcsh 'Political science'
+- !lcc 'B'
+- !lcsh 'Philosophy'
+tableOfContents: 'The development hypothesis -- Progress: its law and cause -- Transcendental
+  physiology -- The nebular hypothesis -- Illogical geology -- Bain on the emotions
+  and the will -- The social organism -- The origin of animal worship -- Morals and
+  moral sentiments -- The comparative psychology of man -- Mr. Martineau on evolution
+  -- The factors of organic evolution.'
+title: 'Essays: Scientific, Political, & Speculative, Vol. I'
+url: http://www.gutenberg.org/ebooks/29869
